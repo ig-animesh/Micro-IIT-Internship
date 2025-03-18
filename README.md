@@ -23,4 +23,4 @@ Technologies Used
 - JavaScript (ES6+)
 
 Deployment
-This portfolio website is deployed on (link unavailable).
+This portfolio website is deployed on vercel https://micro-iit-internship.vercel.app/ .
